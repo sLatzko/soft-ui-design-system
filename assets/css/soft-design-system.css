@@ -20858,6 +20858,7 @@ fieldset:disabled .btn {
 
 .card {
   box-shadow: 0 20px 27px 0 rgba(0, 0, 0, 0.05);
+  height: 200px;
 }
 
 .card .card-header {
